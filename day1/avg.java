@@ -1,3 +1,4 @@
+package day1;
 public class avg {
     public void main(){
         int a = 10;
